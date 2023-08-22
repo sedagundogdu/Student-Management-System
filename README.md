@@ -10,4 +10,4 @@ The Student Management System is a console-based application designed to manage 
 
 
 
-Contributor: [)https://github.com/berkeYelkenci]
+Contributor: [https://github.com/berkeYelkenci]
